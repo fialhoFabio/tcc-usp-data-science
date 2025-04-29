@@ -1,3 +1,4 @@
 yfinance
 pandas
 seaborn
+scikit-learn
